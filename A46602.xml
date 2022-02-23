@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Treaty of peace, good correspondence &amp; neutrality in America between the most serene and mighty Prince James II by the grace of God, King of Great Britain, France and Ireland, Defender of the Faith, &amp;c : and the most serene and mighty Prince Lewis XIV, the most Christian King : concluded the 6/16 day of Novemb. 1686.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46602</idno>
+            <idno type="STC">Wing J393</idno>
+            <idno type="STC">ESTC R10885</idno>
+            <idno type="EEBO-CITATION">13294926</idno>
+            <idno type="OCLC">ocm 13294926</idno>
+            <idno type="VID">98874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 459:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Treaty of peace, good correspondence &amp; neutrality in America between the most serene and mighty Prince James II by the grace of God, King of Great Britain, France and Ireland, Defender of the Faith, &amp;c : and the most serene and mighty Prince Lewis XIV, the most Christian King : concluded the 6/16 day of Novemb. 1686.</title>
+                  <author>England and Wales.</author>
+                  <author>France. Treaties, etc. England and Wales, 1686 Nov. 16.</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Newcomb ...,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>North America --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98874:1"/>
+            <pb facs="tcp:98874:1"/>
+            <p>TREATY Of PEACE, Good Correſpondence &amp; Neutrality IN AMERICA, Between the moſt Serene and Mighty Prince JAMES II.</p>
+            <p>By the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the FAITH, <hi>&amp;c.</hi>
+            </p>
+            <p>And the moſt Serene and Mighty Prince LEWIS XIV. The Moſt Chriſtian King:</p>
+            <p> Concluded the 6/16<hi rend="sup">th</hi> Day of <hi>Novemb.</hi> 1686.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>In the Savoy:</hi> Printed by <hi>Thomas Newcomb,</hi> One of His Majeſties Printers. MDCLXXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:98874:2"/>
+            <pb n="3" facs="tcp:98874:2"/>
+            <head>TREATY Of Peace, Good Correſpondence and Neutrality in <hi>America,</hi> Between the moſt Serene and Mighty Prince JAMES the Second, By the Grace of GOD, KING of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> And the moſt Serene and Mighty Prince LEWIS the Fourteenth, The Moſt Chriſtian King: Concluded the 6/16<hi rend="sup">th</hi> Day of <hi>November</hi> 1686.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is Concluded and Agreed, That from this day forward there be a firm Peace, Union, Amity and good Correſpondence, as well by Land as by Sea, between the <hi>Britiſh</hi> and
+<pb n="4" facs="tcp:98874:3"/>
+                  <hi>French</hi> Nations in <hi>America,</hi> as well Northern as Southern; and within the Iſlands, Colo<g ref="char:EOLhyphen"/>nies, Forts, Cities and Governments (with<g ref="char:EOLhyphen"/>out exception of Places) belonging to the moſt Serene King of <hi>Great Britain,</hi> or to the moſt Serene moſt Chriſtian King, and which are under the Juriſdiction of either King re<g ref="char:EOLhyphen"/>ſpectively.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That no Ships or Veſſels, great or ſmall belonging to the moſt Serene King of <hi>Great Britain's</hi> Subjects in the ſaid <hi>Engliſh</hi> Iſlands, Colonies, Forts, Cities and Governments, ſhall be fitted out or imployed to Invade or Attack the moſt Serene moſt Chriſtian King's Subjects in their Iſlands, Colonies, Forts, Ci<g ref="char:EOLhyphen"/>ties and Governments, or to do them any in<g ref="char:EOLhyphen"/>jury or damage. In like manner that no Ships or Veſſels, great or ſmall, belonging to the moſt Serene moſt Chriſtian King's Sub<g ref="char:EOLhyphen"/>jects in the ſaid <hi>French</hi> Iſlands, Colonies, Forts, Cities and Governments, ſhall be fit<g ref="char:EOLhyphen"/>ted out, or imployed to Invade or Attack the moſt Serene King of <hi>Great Britain's</hi> Subjects
+<pb n="5" facs="tcp:98874:3"/>in their Iſlands, Colonies, Forts, Cities and Governments, or to do them any injury or damage.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>That no Soldiers, Armed Men, or any others whatſoever, inhabiting and living in the ſaid <hi>Engliſh</hi> Iſlands, Colonies, Forts, Ci<g ref="char:EOLhyphen"/>ties and Governments, or who come out of <hi>Europe</hi> to be in Gariſon there, ſhall commit any Act of Hoſtility, or do any injury or damage directly or indirectly againſt the moſt Serene moſt Chriſtian King's Subjects in the ſaid <hi>French</hi> Iſlands, Colonies, Forts, Ci<g ref="char:EOLhyphen"/>ties and Governments, neither ſhall they give any Aſſiſtance of Supplies of Men or Victu<g ref="char:EOLhyphen"/>als to the barbarous or wild <hi>Indians,</hi> with whom the moſt Chriſtian King ſhall have a War.</p>
+               <p>In like manner no Souldiers, Armed Men, or any others whatſoever inhabiting and li<g ref="char:EOLhyphen"/>ving in the ſaid <hi>French</hi> Iſlands, Colonies, Forts, Cities and Governments, or who come out of <hi>Europe</hi> to be in Gariſon there, ſhall commit any Act of Hoſtility, or do any
+<pb n="6" facs="tcp:98874:4"/>injury or damage directly or indirectly againſt the moſt Serene King of <hi>Great Britain</hi>'s Sub<g ref="char:EOLhyphen"/>jects in the ſaid <hi>Engliſh</hi> Iſlands, Colonies, Forts, Cities and Governments; neither ſhall they give any Aſſiſtance or Supplies of Men or Victuals to the barbarous or wild <hi>Indians,</hi> with whom the King of <hi>Great Britain</hi> ſhall have a War.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>It is agreed, That both Kings ſhall have and retain to themſelves all the Dominion, Rights and Pre-eminences in the <hi>American Seas,</hi> Roads, and other Waters whatſoever, in as full and ample manner as of right be<g ref="char:EOLhyphen"/>longs unto them, and in ſuch manner as they now poſſeſs the ſame.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>And therefore the Subjects, Inhabitants, Merchants, Commanders of Ships, Maſters and Mariners of the Kingdoms, Provinces and Dominions of each King reſpectively ſhall abſtain and forbear to Trade and Fiſh in
+<pb n="7" facs="tcp:98874:4"/>all Places poſſeſt, or which ſhall be poſſeſt by the one or the other Party in <hi>America, viz.</hi> The King of <hi>Great Britain</hi>'s Subjects ſhall not direct their Commerce and Trade, nor Fiſh in the Havens, Bays, Creeks, Roads, Shoars, or Places which the moſt Chriſtian King holdeth, or ſhall hereafter hold in <hi>Ame<g ref="char:EOLhyphen"/>rica;</hi> and in like manner the moſt Chriſtian King's Subjects ſhall not direct their Com<g ref="char:EOLhyphen"/>merce and Trade, nor Fiſh in the Havens, Bays, Creeks, Roads, Shoars, or Places which the King of <hi>Great Britain</hi> poſſeſſeth, or ſhall hereafter poſſeſs in <hi>America.</hi> And if any Ship or Veſſel ſhall be found Trading or Fiſhing contrary to the Tenor of this Trea<g ref="char:EOLhyphen"/>ty, the ſaid Ship or Veſſel with its Lading (due Proof thereof being made) ſhall be Confiſcated; Nevertheleſs the Party, who ſhall find himſelf aggrieved by ſuch Sen<g ref="char:EOLhyphen"/>tence of Confiſcation, ſhall have liberty to apply himſelf to the Council of State of that King, by whoſe Governours or Judges the Sentence has been given againſt him, and there complain of the Matter, which never<g ref="char:EOLhyphen"/>theleſs ſhall not ſtop the Execution of the Sentence: But it is always to be underſtood,
+<pb n="8" facs="tcp:98874:5"/>That the Liberty of Navigation ought in no manner to be diſturbed, where nothing is committed againſt the genuine ſenſe of this Treaty.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>It is alſo agreed, That in caſe the Subjects and Inhabitants of either of the Kings with their Shipping (whether Publick and of War, or Private and of Merchants) be forced through ſtreſs of Weather, perſuit of Py<g ref="char:EOLhyphen"/>rates and Enemies, or any other urgent Ne<g ref="char:EOLhyphen"/>ceſſity, for the ſeeking of Shelter and Har<g ref="char:EOLhyphen"/>bour, to retreat and enter into any of the Rivers, Creeks, Bays, Havens, Roads, Ports and Shoars belonging to the other in <hi>America,</hi> they ſhall be received and treated there with all Humanity and Kindneſs, and enjoy all friendly Protection and Help: And it ſhall be lawful for them to refreſh and pro<g ref="char:EOLhyphen"/>vide themſelves at reaſonable and the uſual Rates with Victuals, and all things needful either for the Suſtenance of their Perſons, or Reparation of their Ships, and Conveniency of their Voyage; and they ſhall in no man<g ref="char:EOLhyphen"/>ner be detained or hindred from returning
+<pb n="9" facs="tcp:98874:5"/>out of the ſaid Ports or Roads, but ſhall re<g ref="char:EOLhyphen"/>move and depart when and whither they pleaſe, without any let or impediment: Pro<g ref="char:EOLhyphen"/>vided always, that they do not break Bulk, nor carry out of their Ships any Goods, ex<g ref="char:EOLhyphen"/>poſing them to Sale, nor receive any Mer<g ref="char:EOLhyphen"/>chandiſe on Board, nor employ themſelves in Fiſhing, under the Penalty of the Confiſcati<g ref="char:EOLhyphen"/>on of Ships and Goods, as in the foregoing Article is expreſſed. And it is further agreed, that whenſoever the Subjects of either King ſhall be forced to enter with their Ships into the other's Ports, as is above mentioned, they ſhall be obliged at their coming in to hang out their Flag or Colours of their Nation, and give notice of their coming by thrice firing a Cannon, and if they have no Cannon, by thrice firing a Musket, which if they ſhall omit to do, and however ſend their Boat on Shoar, they ſhall be liable to Confiſcation.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>If any Ships belonging to either of the Kings, their People and Subjects, ſhall within the Coaſts or Dominions of the other ſtick
+<pb n="10" facs="tcp:98874:6"/>upon the Sands, or be Wreckt (which God forbid) or ſuffer any Damage; all friendly Aſſiſtance and Relief ſhall be given to the Perſons Shipwrackt, or who ſhall be in dan<g ref="char:EOLhyphen"/>ger thereof, and Letters of Safe-conduct ſhall likewiſe be given to them for their free and quiet paſſage thence, and the return of every one to his own Country.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>VVhen it ſhall happen, that the Ships of either Party, (as is abovementioned) through danger of the Sea, or other urgent cauſe, he driven into the Ports of the other, if they be Three or Four together, and may give juſt ground of Suſpition, they ſhall immediately upon their arrival acquaint the Governor or Chief Magiſtrate of the Place, with the Cauſe of their Coming, and ſhall ſtay no lon<g ref="char:EOLhyphen"/>ger than the ſaid Governor or chief Magi<g ref="char:EOLhyphen"/>ſtrate will permit, and ſhall be requiſite for the furniſhing themſelves with Victuals, and the Reparation of their Ships.</p>
+            </div>
+            <div n="9" type="article">
+               <pb n="11" facs="tcp:98874:6"/>
+               <head>IX.</head>
+               <p>It is alſo agreed, That the King of <hi>Great Britain</hi>'s Subjects, inhabiting the Iſland of St. <hi>Chriſtophers,</hi> may fetch Salt from the Salt-Ponds there, and carry the ſame away, as well by Sea as by Land, without any Hin<g ref="char:EOLhyphen"/>drance or Moleſtation: And alſo that the Moſt Chriſtian King's Subjects of the ſaid Iſland may enter into the Rivers of the great Road, there to fetch or provide themſelves with Water; upon condition nevertheleſs, that the King of <hi>Great Britain</hi>'s Subjects ſhall only in the day time lade Salt upon their Ships or Veſſels; and in like manner that the Moſt Chriſtian King's Subjects ſhall fetch Water in the day time only. And alſo, that the Ships or Veſſels, of either Nation, which ſhall come for Salt or Water, ſhall be obliged to give Notice of their coming, by hanging out their Flag or Colours of their Nation, and by thrice firing a Cannon, and if they have no Can<g ref="char:EOLhyphen"/>non, by thrice firing a Muſquet. And in caſe any Ship of either Nation ſhall Trade or Tra<g ref="char:EOLhyphen"/>fick
+<pb n="12" facs="tcp:98874:7"/>under pretence of fetching Salt or Water, the ſaid Ship ſhall be Confiſcated.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>The Subjects of either Nation ſhall not Harbor the Barbarous or wild Inhabitants, or the Slaves or Goods, which the ſaid Inhabitants have taken from the Subjects of the other Nation. Neither ſhall they give them any Aſſiſtance or Protection in their ſaid Depre<g ref="char:EOLhyphen"/>dations.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>The Governors, Officers and Subjects of either King ſhall not in any wiſe moleſt or diſturb the Subjects of the other, in ſetling their reſpective Colonies, or in their Com<g ref="char:EOLhyphen"/>merce and Navigation.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>And the more to aſſure the Subjects of the King of <hi>Great Britain,</hi> and of the Moſt Chriſtian King, that no Injury ſhall be offe<g ref="char:EOLhyphen"/>red
+<pb n="13" facs="tcp:98874:7"/>to them by the Ships of War, or private Men of VVar, of either ſide; all the Cap<g ref="char:EOLhyphen"/>tains of the Ships as well of His Majeſty of <hi>Great Britain</hi> as of the Moſt Chriſtian King, and all their Subjects, who ſhall ſet out pri<g ref="char:EOLhyphen"/>vate Men of VVar; and likewiſe their Pri<g ref="char:EOLhyphen"/>viledged Companies ſhall be enjoyned not to do any Injury or Damage whatſoever to the other; which if they do, they ſhall be puniſhed, and moreover be liable to ſatisfie all Coſts and Damages by Reſtitution and Reparation, upon Pain and Obligation of Perſon and Goods.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>For this Cauſe all the Commanders of pri<g ref="char:EOLhyphen"/>vate Men of VVar ſhall from henceforth be obliged, before they receive their Commiſſi<g ref="char:EOLhyphen"/>ons, to enter before a Competent Judge into good and ſufficient Security, by able and reſ<g ref="char:EOLhyphen"/>ponſible Men, who have no Part or Intereſt in ſuch Ships, in the Sum of One Thouſand Pounds Sterling, or Thirteen Thouſand <hi>Li<g ref="char:EOLhyphen"/>vres,</hi> and when they have above One Hun<g ref="char:EOLhyphen"/>dred and Fifty Men, then in the Sum of Two
+<pb n="14" facs="tcp:98874:8"/>Thouſand Pounds Sterling, or Six and Twen<g ref="char:EOLhyphen"/>ty Thouſand <hi>Livres,</hi> that they will give full ſatisfaction for any Damages or Injuries whatſoever, which they or their Officers, or others in their Services, ſhall commit in their Courſes at Sea, contrary to this preſent Trea<g ref="char:EOLhyphen"/>ty or any other whatſoever, between His Majeſty of <hi>Great Britain</hi> and the ſaid Moſt Chriſtian King, and upon Pain of Revocati<g ref="char:EOLhyphen"/>on and Annulling their ſaid Commiſſions; in which it ſhall be always inſerted, that they have given ſuch Security as aboveſaid: And likewiſe it is agreed, that the Ship it ſelf ſhall be alſo liable to make ſatisfaction for Injuries and Damages done by Her.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>And whereas ſeveral Pirats Roving up and down the <hi>American</hi> Seas, as well Northern as Southern, do much damnifie Trade and mo<g ref="char:EOLhyphen"/>leſt the Subjects of both Crowns in their Na<g ref="char:EOLhyphen"/>vigation and Commerce in thoſe Parts; it is agreed, that ſtrict Orders ſhall be given to the Governors and Officers of both Kings, that they give no Aſſiſtance or Protection to any
+<pb n="15" facs="tcp:98874:8"/>Pirates of what Nation ſoever, nor ſuffer them to have any Retreat in the Ports or Roads of their reſpective Governments; and the ſaid Governors and Officers ſhall alſo be expreſsly Commanded to puniſh; as Pirats, all ſuch, who ſhall Arm out any Ship or Ships for Privateering, without lawful Commiſſion and Authority.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>No Subject of either King ſhall ask or take any Commiſſion, or Letters of Mart for Arm<g ref="char:EOLhyphen"/>ing any Ship or Ships to go Privateering in <hi>America,</hi> whether Northern or Southern, from any Prince or State, with whom the other is in War; and if any Perſon ſhall take ſuch Commiſſion or Letters of Mart, he ſhall be puniſhed as a Pirate.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>The Moſt Chriſtian King's Subjects ſhall have full Liberty to Fiſh for Turtles in the Iſlands of <hi>Cayman.</hi>
+               </p>
+            </div>
+            <div n="17" type="article">
+               <pb n="16" facs="tcp:98874:9"/>
+               <head>XVII.</head>
+               <p>That in caſe it ſhould happen, any diffe<g ref="char:EOLhyphen"/>rences or diſputes ſhould ariſe between the Subjects of the ſaid Moſt Serene Kings in the ſaid Iſlands, Colonies, Forts, Cities and Governments under the Dominion of either reſpectively, whether at Sea or at Land, this Peace and Good Correſpondence ſhall not thereby be interrupted or infringed; but the ſaid differences, which may happen be<g ref="char:EOLhyphen"/>tween the Subjects of both Kings, ſhall be ad<g ref="char:EOLhyphen"/>judged and determined by the Governors of each Juriſdiction reſpectively, where they ſhall have ariſen, or by them whom they ſhall de<g ref="char:EOLhyphen"/>pute; and if the ſaid differences cannot within the ſpace of one Year be determined by the ſaid Governors, they ſhall tranſmit the ſame, with the firſt, to the Moſt Serene Kings, to determine the ſame according to Juſtice, in ſuch manner as they ſhall think fit.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII.</head>
+               <p>It is further concluded and agreed, That if any Breach ſhould happen (which God
+<pb n="17" facs="tcp:98874:9"/>forbid) between the ſaid Crowns in <hi>Europe,</hi> no Act of Hoſtility, neither at Land nor at Sea, ſhall however be done by any of the moſt Serene King of <hi>Great Britain</hi>'s Gari<g ref="char:EOLhyphen"/>ſons, Souldiers or Subjects whomſoever of the Iſlands, Colonies, Forts, Cities and Go<g ref="char:EOLhyphen"/>vernments, which now are, or hereafter ſhall be under the <hi>Engliſh</hi> Dominion in <hi>America,</hi> againſt the moſt Serene moſt Chriſtian King's Subjects, inhabiting or reſiding in any of the <hi>American</hi> Colonies: Likewiſe recipro<g ref="char:EOLhyphen"/>cally, that in the aboveſaid caſe of a Breach in <hi>Europe,</hi> no Act of Hoſtility, neither at Land nor at Sea, ſhall however be done by any of the moſt Serene moſt Chriſtian King's Gariſons, Souldiers or Subjects whomſoever of the Iſlands, Colonies, Forts, Cities and Governments, which now are, or hereafter ſhall be under the <hi>French</hi> Dominion in <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> againſt the moſt Serene King of <hi>Great Britain</hi>'s Subjects inhabiting in any of the <hi>American</hi> Colonies, or reſiding there. But a true and firm Peace and Neutrality ſhall continue in <hi>America</hi> between the ſaid <hi>Britiſh</hi> and <hi>French</hi> Nations in the ſame manner, as if ſuch Breach in <hi>Europe</hi> had not happened.</p>
+            </div>
+            <div n="19" type="article">
+               <pb n="18" facs="tcp:98874:10"/>
+               <head>XIX.</head>
+               <p>It is provided and agreed, That this pre<g ref="char:EOLhyphen"/>ſent Treaty ſhall not in any wiſe derogate from the Treaty concluded between the ſaid moſt Serene Kings at <hi>Breda</hi> the 21/31 day of <hi>July,</hi> in the year of our Lord 1667. But that all and ſingular the Articles and Clauſes of that Treaty ſhall remain in force and be obſerved.</p>
+            </div>
+            <div n="20" type="article">
+               <head>XX.</head>
+               <p>That all Treaties or Articles at any time heretofore made and concluded between the ſaid Nations, upon the Iſland of <hi>St. Chriſto<g ref="char:EOLhyphen"/>phers</hi> or elſewhere in <hi>America,</hi> ſhall be in force as formerly, and ſhall be obſerved on both ſides as heretofore, unleſs where they ſhall be found to be contrary to this preſent Treaty.</p>
+            </div>
+            <div n="21" type="article">
+               <head>XXI.</head>
+               <p>Laſtly, It is agreed and concluded, That this preſent Treaty, and all and ſingular the Matters therein contained, ſhall, as ſoon as
+<pb n="19" facs="tcp:98874:10"/>may be, be ratified and confirmed, and that the Ratifications thereof ſhall within the ſpace of two Months from the date of theſe Preſents be reciprocally exchanged between both Parties: And within the ſpace of eight Months, or ſooner if it may be, be publiſh<g ref="char:EOLhyphen"/>ed in all the Kingdoms, Dominions and Co<g ref="char:EOLhyphen"/>lonies, as well in <hi>America</hi> as elſewhere, of both the Kings.</p>
+               <p>In Witneſs whereof, We, the Plenipoten<g ref="char:EOLhyphen"/>tiaries, have Signed and Sealed this preſent Treaty. Given in His Majeſties Palace of <hi>Whitehal</hi> the 6/16<hi rend="sup">th</hi> day of <hi>November</hi> 1686.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Jeffreys</hi> C. <hi>(L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Rocheſter (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Sunderland</hi> P. <hi>(L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Middleton (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Godolphin (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Barillon d'Amoncourt. (L. S.)</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98874:11"/>
+            <head>An Advertiſement.</head>
+            <p>THe following Treaties, together with this Treaty, are all Printed in one Volume, and ſold by <hi>Edw. Poole</hi> at the Ship in <hi>Cornhil.</hi>
+            </p>
+            <list>
+               <item>TReaty of Peace and Commerce with <hi>Spain,</hi> 1667.</item>
+               <item>Treaty of Peace with <hi>France,</hi> 1667.</item>
+               <item>Treaty of Peace with <hi>Denmark,</hi> 1667.</item>
+               <item>Treaty of Peace with <hi>Holland,</hi> 1667.</item>
+               <item>Treaty of Navigation and Commerce with <hi>Holland,</hi> 1667.</item>
+               <item>Treaty of Navigation and Commerce with <hi>Holland,</hi> 167<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>Treaty of Friendſhip and Commerce with <hi>Savoy,</hi> 1669.</item>
+               <item>Treaty with <hi>Spain</hi> for ſettling Differences in <hi>America,</hi> 1670.</item>
+               <item>Treaty of Alliance and Commerce with <hi>Denmark,</hi> 1670.</item>
+               <item>Treaty of Peace with <hi>Tunis,</hi> 1674/5.</item>
+               <item>Treaty of Peace and Commerce with <hi>Tripoli,</hi> 1676.</item>
+               <item>Treaty of Peace with <hi>Holland,</hi> 1673/4.</item>
+               <item>Treaty Marine with <hi>Holland,</hi> 1674.</item>
+               <item>Explanatory Declaration of the Marine Treaties with <hi>Holland,</hi> 1677/8.</item>
+               <item>Capitulations and Articles of Peace with the <hi>Ottoman</hi> Empire, 1675.</item>
+               <item>Treaty Marine with <hi>France,</hi> 1676/7.</item>
+               <item>Treaty of Peace and Commerce with <hi>Algiers,</hi> 1682.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
